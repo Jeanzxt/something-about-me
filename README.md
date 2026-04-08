@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmNkaWR3bGh2bTQ0a2x6MWV2Mjh1ejY2aGJiY3VmMXhudHZhZ3BhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2RMbL9tobgsHS/giphy.gif" alt="Banner Jean" />
 </p>
 
-### ✦ Estudante de ADS • 18 anos • Criativo & Proativo ✦
+### ✦ Estudante de ENSW • 18 anos • Criativo & Proativo ✦
 
 ---
 
