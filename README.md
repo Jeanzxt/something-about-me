@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmNkaWR3bGh2bTQ0a2x6MWV2Mjh1ejY2aGJiY3VmMXhudHZhZ3BhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2RMbL9tobgsHS/giphy.gif" alt="Banner Jean" />
 </p>
 
-### ✦ Estudante de ADS • 17 anos • Criativo & Proativo ✦
+### ✦ Estudante de ADS • 18 anos • Criativo & Proativo ✦
 
 ---
 
@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="60%">
-      Sou estudante do 3º ano técnico em <strong>Análise e Desenvolvimento de Sistemas</strong>, com perfil proativo, curioso e criativo. Tenho paixão por tecnologia e por transformar ideias em soluções funcionais que gerem impacto.<br><br>
+      Sou estudante Engenharia de Software|Unifil|  , com perfil proativo, curioso e criativo. Tenho paixão por tecnologia e por transformar ideias em soluções funcionais que gerem impacto.<br><br>
       Estou constantemente em busca de novos aprendizados, explorando linguagens de programação e ferramentas que me desafiem a evoluir. Acredito que cada projeto é uma oportunidade de crescimento, e meu objetivo é criar soluções com propósito, eficiência e inovação.
     </td>
     <td>
